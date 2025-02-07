@@ -11,6 +11,7 @@ These also contain sources which still contain the destructive content in them. 
 This was added so people cannot skid from the original author's sources. If done, ***You have to credit them and release the source code!***
 
 # 🤝 Inspirations 🤝
-> Endermanch's Malware Database: https://github.com/Endermanch/MalwareDatabase
-> NFTS123's Malware Database: https://github.com/NTFS123/MalwareDatabase
-> Nazar17P3426's Malware Database: https://github.com/Nazar17P3426/ViewerMade and https://github.com/Nazar17P3426/ViewerMade2
+
+Endermanch's Malware Database: https://github.com/Endermanch/MalwareDatabase
+NFTS123's Malware Database: https://github.com/NTFS123/MalwareDatabase
+Nazar's https://github.com/Nazar17P3426/ViewerMade and https://github.com/Nazar17P3426/ViewerMade2
